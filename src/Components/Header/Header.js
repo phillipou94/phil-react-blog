@@ -1,5 +1,6 @@
 import React from "react";
 import AvatarSrc from '../../Assets/phil_avatar.png'
+import { Link } from "react-router-dom";
 
 import {
     MainHeader,
@@ -18,10 +19,10 @@ export const Header = () => {
     return (
         <MainHeader>
             <TitleWrapper>
-            <a href="/">
+            <Link to={"/"}> 
                 <HeaderAvatar src={AvatarSrc} />
                 <HeaderTitle>{config.title}</HeaderTitle>
-            </a>
+            </Link>
             </TitleWrapper>
             <HeaderMenuWrapper>
                 <HeaderMenuItem menu_item_title={"Blog"} path="/" ></HeaderMenuItem>
