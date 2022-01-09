@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phil-react-blog/static/css/main.073c9b0a.css",
+    "main.js": "/phil-react-blog/static/js/main.e85d892e.js",
+    "static/js/787.dc5ea5a5.chunk.js": "/phil-react-blog/static/js/787.dc5ea5a5.chunk.js",
+    "static/media/logo.svg": "/phil-react-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/phil-react-blog/index.html",
+    "main.073c9b0a.css.map": "/phil-react-blog/static/css/main.073c9b0a.css.map",
+    "main.e85d892e.js.map": "/phil-react-blog/static/js/main.e85d892e.js.map",
+    "787.dc5ea5a5.chunk.js.map": "/phil-react-blog/static/js/787.dc5ea5a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e85d892e.js"
+  ]
+}
