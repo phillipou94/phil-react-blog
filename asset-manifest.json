@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/phil-react-blog/static/css/main.073c9b0a.css",
-    "main.js": "/phil-react-blog/static/js/main.e85d892e.js",
-    "static/js/787.dc5ea5a5.chunk.js": "/phil-react-blog/static/js/787.dc5ea5a5.chunk.js",
-    "static/media/logo.svg": "/phil-react-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/phil-react-blog/static/css/main.3d4270e4.chunk.css",
+    "main.js": "/phil-react-blog/static/js/main.4595d6e1.chunk.js",
+    "main.js.map": "/phil-react-blog/static/js/main.4595d6e1.chunk.js.map",
+    "runtime-main.js": "/phil-react-blog/static/js/runtime-main.acc71c1b.js",
+    "runtime-main.js.map": "/phil-react-blog/static/js/runtime-main.acc71c1b.js.map",
+    "static/js/2.70109432.chunk.js": "/phil-react-blog/static/js/2.70109432.chunk.js",
+    "static/js/2.70109432.chunk.js.map": "/phil-react-blog/static/js/2.70109432.chunk.js.map",
     "index.html": "/phil-react-blog/index.html",
-    "main.073c9b0a.css.map": "/phil-react-blog/static/css/main.073c9b0a.css.map",
-    "main.e85d892e.js.map": "/phil-react-blog/static/js/main.e85d892e.js.map",
-    "787.dc5ea5a5.chunk.js.map": "/phil-react-blog/static/js/787.dc5ea5a5.chunk.js.map"
+    "precache-manifest.0eb6f9094f626496a07f096997423aaf.js": "/phil-react-blog/precache-manifest.0eb6f9094f626496a07f096997423aaf.js",
+    "service-worker.js": "/phil-react-blog/service-worker.js",
+    "static/css/main.3d4270e4.chunk.css.map": "/phil-react-blog/static/css/main.3d4270e4.chunk.css.map",
+    "static/js/2.70109432.chunk.js.LICENSE.txt": "/phil-react-blog/static/js/2.70109432.chunk.js.LICENSE.txt",
+    "static/media/Facebook-black.svg": "/phil-react-blog/static/media/Facebook-black.f6268ab5.svg",
+    "static/media/Linkedin-black.svg": "/phil-react-blog/static/media/Linkedin-black.21d75061.svg",
+    "static/media/google_logo.png": "/phil-react-blog/static/media/google_logo.0dd54f85.png",
+    "static/media/google_photos_logo.png": "/phil-react-blog/static/media/google_photos_logo.b41a6558.png",
+    "static/media/messages_logo.png": "/phil-react-blog/static/media/messages_logo.754b96bd.png",
+    "static/media/phil_avatar.png": "/phil-react-blog/static/media/phil_avatar.91359199.png",
+    "static/media/snapchat_logo.jpg": "/phil-react-blog/static/media/snapchat_logo.73f05487.jpg",
+    "static/media/substack.svg": "/phil-react-blog/static/media/substack.cb5fe06c.svg"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e85d892e.js"
+    "static/js/runtime-main.acc71c1b.js",
+    "static/js/2.70109432.chunk.js",
+    "static/css/main.3d4270e4.chunk.css",
+    "static/js/main.4595d6e1.chunk.js"
   ]
 }
