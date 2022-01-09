@@ -6,13 +6,13 @@ export const config = {
   githubUserName: "phillipou94",
 
   // Your Github Repo Name Where You Have your issues as Blog
-  githubRepo: "react-blog",
+  githubRepo: "phil-react-blog",
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: true,
-  OAuthClientID: 'Iv1.230819d75b6414df',
-  OAuthSecret: 'ca1de462fd5ac4d80f7b38ef90f638ff47d1e9af',
+  OAuthClientID: 'Iv1.fe9e3e3f8609c2f8',
+  OAuthSecret: 'e0be3c0cebdf13535aebf16fee28bfccf2644ad9',
 
   // Your Personal Blog Title
   title : "Phil Ou" ,
