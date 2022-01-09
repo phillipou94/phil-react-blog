@@ -6,10 +6,9 @@ const StyledCategory = styled.div`
   font-family: 'Raleway', sans-serif;
   color:#6F92ED;
   text-decoration: none;
+  font-weight:500;
+  font-family: 'Raleway', sans-serif;
   :visited {
-    font-size:0.75em;
-    font-family: 'Raleway', sans-serif;
-    font-weight:200;
     color:#6F92ED;
     text-decoration: none;
   }
