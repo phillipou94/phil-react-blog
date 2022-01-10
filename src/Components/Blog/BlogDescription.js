@@ -6,7 +6,7 @@ export const BlogDescription = styled.div`
     padding-bottom: 10px;
     padding-top: 10px;
     p {
-        font-style: italic;
+        
         font-size:15px;
     }
     a { 
