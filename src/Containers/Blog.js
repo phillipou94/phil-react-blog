@@ -83,9 +83,7 @@ const Blog = () => {
     <>
       <Header />
       <BlogContainer>
-        {is_default_page &&
-          <PageTitle>Blog</PageTitle>
-        }
+
         {is_default_page && 
           <BlogDescription>
               <p>Hi there 👋!</p>
@@ -95,7 +93,9 @@ const Blog = () => {
               <p>This will mostly be a self-serving venture but maybe—just maybe—you’ll benefit from it as much as I do!</p>
           </BlogDescription>
         }
-        <SectionTitle>{sectionTitle}</SectionTitle>
+
+          <PageTitle>{sectionTitle}</PageTitle>
+
           {
             loading
             ? <Loader />
