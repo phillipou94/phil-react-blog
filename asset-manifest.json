@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/phil-react-blog/static/css/main.3d4270e4.chunk.css",
-    "main.js": "/phil-react-blog/static/js/main.a932cc1a.chunk.js",
-    "main.js.map": "/phil-react-blog/static/js/main.a932cc1a.chunk.js.map",
-    "runtime-main.js": "/phil-react-blog/static/js/runtime-main.acc71c1b.js",
-    "runtime-main.js.map": "/phil-react-blog/static/js/runtime-main.acc71c1b.js.map",
-    "static/js/2.befc70de.chunk.js": "/phil-react-blog/static/js/2.befc70de.chunk.js",
-    "static/js/2.befc70de.chunk.js.map": "/phil-react-blog/static/js/2.befc70de.chunk.js.map",
-    "index.html": "/phil-react-blog/index.html",
-    "precache-manifest.f7826cd0558663c6eaa55d34593816a9.js": "/phil-react-blog/precache-manifest.f7826cd0558663c6eaa55d34593816a9.js",
-    "service-worker.js": "/phil-react-blog/service-worker.js",
-    "static/css/main.3d4270e4.chunk.css.map": "/phil-react-blog/static/css/main.3d4270e4.chunk.css.map",
-    "static/js/2.befc70de.chunk.js.LICENSE.txt": "/phil-react-blog/static/js/2.befc70de.chunk.js.LICENSE.txt",
-    "static/media/Facebook-black.svg": "/phil-react-blog/static/media/Facebook-black.f6268ab5.svg",
-    "static/media/Linkedin-black.svg": "/phil-react-blog/static/media/Linkedin-black.21d75061.svg",
-    "static/media/google_logo.png": "/phil-react-blog/static/media/google_logo.0dd54f85.png",
-    "static/media/google_photos_logo.png": "/phil-react-blog/static/media/google_photos_logo.b41a6558.png",
-    "static/media/messages_logo.png": "/phil-react-blog/static/media/messages_logo.754b96bd.png",
-    "static/media/phil_avatar.png": "/phil-react-blog/static/media/phil_avatar.91359199.png",
-    "static/media/snapchat_logo.jpg": "/phil-react-blog/static/media/snapchat_logo.73f05487.jpg",
-    "static/media/substack.svg": "/phil-react-blog/static/media/substack.cb5fe06c.svg"
+    "main.css": "/static/css/main.3d4270e4.chunk.css",
+    "main.js": "/static/js/main.4127fce1.chunk.js",
+    "main.js.map": "/static/js/main.4127fce1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7249186f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7249186f.js.map",
+    "static/js/2.18ddb882.chunk.js": "/static/js/2.18ddb882.chunk.js",
+    "static/js/2.18ddb882.chunk.js.map": "/static/js/2.18ddb882.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.17746697d5bc864bb86f3502aa75d0f1.js": "/precache-manifest.17746697d5bc864bb86f3502aa75d0f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d4270e4.chunk.css.map": "/static/css/main.3d4270e4.chunk.css.map",
+    "static/js/2.18ddb882.chunk.js.LICENSE.txt": "/static/js/2.18ddb882.chunk.js.LICENSE.txt",
+    "static/media/Facebook-black.svg": "/static/media/Facebook-black.f6268ab5.svg",
+    "static/media/Linkedin-black.svg": "/static/media/Linkedin-black.21d75061.svg",
+    "static/media/google_logo.png": "/static/media/google_logo.0dd54f85.png",
+    "static/media/google_photos_logo.png": "/static/media/google_photos_logo.b41a6558.png",
+    "static/media/messages_logo.png": "/static/media/messages_logo.754b96bd.png",
+    "static/media/phil_avatar.png": "/static/media/phil_avatar.91359199.png",
+    "static/media/snapchat_logo.jpg": "/static/media/snapchat_logo.73f05487.jpg",
+    "static/media/substack.svg": "/static/media/substack.cb5fe06c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.acc71c1b.js",
-    "static/js/2.befc70de.chunk.js",
+    "static/js/runtime-main.7249186f.js",
+    "static/js/2.18ddb882.chunk.js",
     "static/css/main.3d4270e4.chunk.css",
-    "static/js/main.a932cc1a.chunk.js"
+    "static/js/main.4127fce1.chunk.js"
   ]
 }
